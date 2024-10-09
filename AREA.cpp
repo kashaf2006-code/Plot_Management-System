@@ -1,18 +1,14 @@
 #include <iostream>
-#include <cmath>
+#include <cmath> //Header file use for basic mathematical formula
 using namespace std;
 int main ()
 {
-  /* int r;
+   int r;
    float area;
    const float  PI =3.142;
-   cout<<"Enter the radius :";
+   cout<<"Enter the radius: ";
    cin>>r;
    area=2*PI*r*r;
-   cout<<"The area is :"<<area;
-   */
-   
-   bool size= 1;
-   cout<<!(size);
-	return 0;
+   cout<<"\n The area is :"<<area;
+return 0;
 }
